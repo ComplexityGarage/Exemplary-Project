@@ -1,6 +1,7 @@
 # Title of the project
 # Authors 
-- Kamil Adach
+- Author 1
+- Author 2
 # Description of the project 
 Text here... 
 # Science and tech used 
