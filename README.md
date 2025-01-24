@@ -1,4 +1,4 @@
-# ExemplaryProject  (Title of the project)
+# Title of the project
 # Authors 
 - Kamil Adach
 # Description of the project 
